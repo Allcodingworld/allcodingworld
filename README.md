@@ -62,7 +62,7 @@ Add additional notes about how to deploy this on a live system
 
 * [tortoisesvn](link) - The web framework used
 * [visualsvn server](https://maven.apache.org/) - Dependency Management
-* [Allcodingworld](https://allcodingworld.com/about.php) - About the Author
+* [Allcodingworld](http://www.allcodingworld.com/about.php) - About the Allcodingworld
 
 ## Contributing
 
